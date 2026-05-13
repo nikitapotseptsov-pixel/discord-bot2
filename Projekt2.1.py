@@ -38,4 +38,4 @@ async def time(ctx):
     kell = datetime.now().strftime("%H:%M")
     await ctx.send(f"Kell on praegu {kell}")
 
-bot.run("MTUwMDgxNjc1NjA2OTg5NjI3Mw.GupHWL.zZS5jSe0237YrYLYCNA-RO2rQvxuF5lzdUvITY")
+bot.run("#")
